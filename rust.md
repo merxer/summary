@@ -1,7 +1,7 @@
 RUST Language
 
-`rust  
+```rust  
 fn main() {  
     println!("Hello World!");  
-} `
+}```
 
